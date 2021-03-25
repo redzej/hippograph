@@ -4,5 +4,5 @@ mypy==0.790
 pytest==6.2.1
 pytest-cov>=2.10.1
 pytest-django>=4.1.0
-pyyaml==5.3.1
+pyyaml==5.4
 twine==3.3.0
